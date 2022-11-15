@@ -48,4 +48,4 @@
   <img alt="KemNasa Youtube" width="100" src="https://cdn-icons-png.flaticon.com/128/187/187209.png" />
 </a>
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=HarryWakazaki&label=T%E1%BB%95ng%20Ng%C6%B0%E1%BB%9Di%20Tham%20Quan&color=0e75b6&style=flat" alt="Nguyễn Thái Hảo" /> </p>
+<img src="https://komarev.com/ghpvc/?username=HarryWakazaki&label=T%E1%BB%95ng%20Ng%C6%B0%E1%BB%9Di%20Tham%20Quan&color=0e75b6&style=flat" alt="Hoàng Hào" /> </p>
